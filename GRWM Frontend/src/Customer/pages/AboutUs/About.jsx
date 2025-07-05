@@ -33,7 +33,7 @@ const About = () => {
           {/* Right Side: Text Content */}
           <div className="w-full md:w-1/2 flex items-center justify-center px-3 sm:px-6 md:px-8 py-6 md:py-12">
             <div className="text-white text-justify md:text-lg space-y-4">
-              <h1 className="text-lg font-horizon md:text-3xl text-center md:text-start font-semibold font-horizon mb-3 ">
+              <h1 className="text-sm md:text-3xl text-center md:text-start font-semibold font-horizon mb-3 ">
                 Welcome to <span className="text-white">GRWM</span>
               </h1>
               <p>

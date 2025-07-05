@@ -7,7 +7,7 @@ import NaturalLight_Right from "../../../assets/PhotoTips/Grwm_NaturalLight_Righ
 import Background_Wrong from "../../../assets/PhotoTips/grwm_bg_wrong.jpg";
 import Background_Right from "../../../assets/PhotoTips/grwm_bg_right.jpg";
 import Dont_Hide_Right from "../../../assets/PhotoTips/Grwm_Hide.jpg";
-import Dont_Hide_Wrong from "../../../assets/PhotoTips/grwm-hide.jpg";
+import Dont_Hide_Wrong from "../../../assets/PhotoTips/grwm-hide.jpg.jpg";
 import HalfLook from "../../../assets/PhotoTips/Grwm_HalfLook.jpg";
 import CompleteLook from "../../../assets/PhotoTips/Grwm_CompleteLook.jpg";
 import Grwm_catfishcontent_Wrong from "../../../assets/PhotoTips/Grwm_catfishcontent_Wrong.jpg";
